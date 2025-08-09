@@ -22,13 +22,6 @@ I'm a passionate Full Stack Developer with experience in building robust web app
 
 ---
 
-## 🌟 Favorite Projects
-
-- **[Live Remote](#)** – Real-time remote collaboration platform  
-- **[SoniScribe](#)** – Audio transcription and sound analysis tool  
-
----
-
 ## 🔗 Connect With Me
 
 [![Website](https://img.shields.io/badge/Website-Visit-blueviolet?style=flat-square&logo=google-chrome)](https://isfopo.github.io/about/)
