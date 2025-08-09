@@ -6,7 +6,7 @@ Full Stack Developer | Creative Technologist | TypeScript & React Specialist | T
 
 ## 🚀 About Me
 
-I'm a passionate Full Stack Developer with experience in building robust web applications and exploring innovative solutions. I enjoy combining my technical skills with my interests in music production and hardware tinkering.
+Motivated by creativity and a passion for innovation, I fuse my backgrounds in software engineering and music to craft technology that's both functional and inspired.
 
 - 🎸 Music Producer & Guitarist
 - 🛠️ Embedded Hardware & 3D Printing Enthusiast
