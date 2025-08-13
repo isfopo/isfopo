@@ -8,6 +8,7 @@ Full Stack Developer | Creative Technologist | TypeScript & React Specialist | T
 
 Motivated by creativity and a passion for innovation, I fuse my backgrounds in software engineering and music to craft technology that's both functional and inspired.
 
+- 💻 Fullstack Web Developer
 - 🎸 Music Producer & Guitarist
 - 🛠️ Embedded Hardware & 3D Printing Enthusiast
 
