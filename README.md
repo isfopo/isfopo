@@ -17,7 +17,7 @@ Motivated by creativity and a passion for innovation, I fuse my backgrounds in s
 ## 🧰 Top Skills
 
 - **Languages:** Typescript, C#, Python
-- **Frontend:** React, Next.js
+- **Frontend:** React, Razor
 - **Backend:** Node.js, .NET
 - **Other:** REST APIs, WebSockets, SQL, CI/CD
 
